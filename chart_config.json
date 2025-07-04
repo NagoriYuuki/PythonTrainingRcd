@@ -1,0 +1,30 @@
+[
+    {
+        "cid": "bar_2024_shipments",
+        "top": "0%",
+        "left": "0%",
+        "width": "50%",
+        "height": "50%"
+    },
+    {
+        "cid": "bar_comparison",
+        "top": "0%",
+        "left": "50%",
+        "width": "50%",
+        "height": "50%"
+    },
+    {
+        "cid": "pie_market_share",
+        "top": "50%",
+        "left": "0%",
+        "width": "50%",
+        "height": "50%"
+    },
+    {
+        "cid": "bar_growth_rate",
+        "top": "50%",
+        "left": "50%",
+        "width": "50%",
+        "height": "50%"
+    }
+]

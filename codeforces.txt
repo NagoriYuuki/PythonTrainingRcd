@@ -1,0 +1,20 @@
+      id             dark                       notice               notice 2  \
+0    NaN              NaN                          NaN                    NaN   
+1  2123G  Modular Sorting            暴力枚举（brute force）  数据结构（data structures）   
+2  2123F              NaN  构造（constructive algorithms）      数论（number theory）   
+3  2123E        MEX Count            二分（binary search）  数据结构（data structures）   
+4  2123D              NaN  构造（constructive algorithms）             博弈论（games）   
+
+     notice 3      notice 4           notice 5  ProblemRating dark 3  \
+0         NaN           NaN                NaN            NaN    NaN   
+1  贪心（greedy）      数学（math）  数论（number theory）         2100.0  x1270   
+2         NaN           NaN                NaN         1700.0    NaN   
+3  贪心（greedy）  排序（sortings）  双指针（two pointers）         1400.0  x8135   
+4  贪心（greedy）           NaN                NaN         1200.0    NaN   
+
+  tablescraper-selected-row   tablescraper-selected-row 2   right  
+0                       NaN                           NaN     NaN  
+1                       NaN                           NaN     NaN  
+2     Minimize Fixed Points                             ,   x5100  
+3                       NaN                           NaN     NaN  
+4      Binary String Battle  ,\n                        ,  x13126  

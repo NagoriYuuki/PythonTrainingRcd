@@ -8,13 +8,13 @@
     
 </head>
 <body >
-    <style>.box {  } </style>
+    <style>.box { justify-content:center; display:flex; flex-wrap:wrap;  } </style>
     <div class="box">
-                <div id="bar_2024_shipments" class="chart-container" style="position: absolute; width: 50%; height: 50%; top: 0%; left: 0%;"></div>
+                <div id="12793b92abf0427e946038e559508c9d" class="chart-container" style="width:900px; height:500px; "></div>
     <script>
-        var chart_bar_2024_shipments = echarts.init(
-            document.getElementById('bar_2024_shipments'), 'dark', {renderer: 'canvas'});
-        var option_bar_2024_shipments = {
+        var chart_12793b92abf0427e946038e559508c9d = echarts.init(
+            document.getElementById('12793b92abf0427e946038e559508c9d'), 'dark', {renderer: 'canvas'});
+        var option_12793b92abf0427e946038e559508c9d = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -95,10 +95,10 @@
     ],
     "tooltip": {
         "show": true,
-        "trigger": "item",
+        "trigger": "axis",
         "triggerOn": "mousemove|click",
         "axisPointer": {
-            "type": "line"
+            "type": "shadow"
         },
         "showContent": true,
         "alwaysShowContent": false,
@@ -216,13 +216,13 @@
         }
     ]
 };
-        chart_bar_2024_shipments.setOption(option_bar_2024_shipments);
+        chart_12793b92abf0427e946038e559508c9d.setOption(option_12793b92abf0427e946038e559508c9d);
     </script>
-<br/>                <div id="bar_comparison" class="chart-container" style="position: absolute; width: 50%; height: 50%; top: 0%; left: 50%;"></div>
+<br/>                <div id="41f8412fc86d40f08cf6653abb84817d" class="chart-container" style="width:900px; height:500px; "></div>
     <script>
-        var chart_bar_comparison = echarts.init(
-            document.getElementById('bar_comparison'), 'dark', {renderer: 'canvas'});
-        var option_bar_comparison = {
+        var chart_41f8412fc86d40f08cf6653abb84817d = echarts.init(
+            document.getElementById('41f8412fc86d40f08cf6653abb84817d'), 'dark', {renderer: 'canvas'});
+        var option_41f8412fc86d40f08cf6653abb84817d = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -236,61 +236,87 @@
     },
     "series": [
         {
-            "type": "line",
-            "name": "\u5e74\u51fa\u8d27\u91cf",
-            "connectNulls": false,
-            "xAxisIndex": 0,
-            "symbol": "circle",
-            "symbolSize": 10,
-            "showSymbol": true,
-            "smooth": true,
-            "clip": true,
-            "step": false,
-            "stackStrategy": "samesign",
+            "type": "bar",
+            "name": "2023\u5e74\u51fa\u8d27\u91cf",
+            "legendHoverLink": true,
             "data": [
-                [
-                    "2021",
-                    71
-                ],
-                [
-                    "2022",
-                    53.2
-                ],
-                [
-                    "2023",
-                    44.5
-                ],
-                [
-                    "2024",
-                    49.3
-                ]
+                44.5,
+                33.5,
+                51.8,
+                43.9,
+                43.6,
+                55.3
             ],
-            "hoverAnimation": true,
+            "realtimeSort": false,
+            "showBackground": false,
+            "stackStrategy": "samesign",
+            "cursor": "pointer",
+            "barMinHeight": 0,
+            "barCategoryGap": "20%",
+            "barGap": "30%",
+            "large": false,
+            "largeThreshold": 400,
+            "seriesLayoutBy": "column",
+            "datasetIndex": 0,
+            "clip": true,
+            "zlevel": 0,
+            "z": 2,
             "label": {
-                "show": true,
+                "show": false,
                 "margin": 8,
                 "valueAnimation": false
             },
-            "logBase": 10,
-            "seriesLayoutBy": "column",
-            "lineStyle": {
+            "rippleEffect": {
                 "show": true,
-                "width": 1,
-                "opacity": 1,
-                "curveness": 0,
-                "type": "solid"
-            },
-            "areaStyle": {
-                "opacity": 0
-            },
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        },
+        {
+            "type": "bar",
+            "name": "2024\u5e74\u51fa\u8d27\u91cf",
+            "legendHoverLink": true,
+            "data": [
+                49.3,
+                46.0,
+                42.9,
+                42.7,
+                42.2,
+                61.6
+            ],
+            "realtimeSort": false,
+            "showBackground": false,
+            "stackStrategy": "samesign",
+            "cursor": "pointer",
+            "barMinHeight": 0,
+            "barCategoryGap": "20%",
+            "barGap": "30%",
+            "large": false,
+            "largeThreshold": 400,
+            "seriesLayoutBy": "column",
+            "datasetIndex": 0,
+            "clip": true,
             "zlevel": 0,
-            "z": 0
+            "z": 2,
+            "label": {
+                "show": false,
+                "margin": 8,
+                "valueAnimation": false
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
         }
     ],
     "legend": [
         {
             "data": [
-                "\u5e74\u51fa\u8d27\u91cf"
+                "2023\u5e74\u51fa\u8d27\u91cf",
+                "2024\u5e74\u51fa\u8d27\u91cf"
             ],
             "selected": {},
             "show": true,
@@ -322,7 +348,7 @@
         "trigger": "axis",
         "triggerOn": "mousemove|click",
         "axisPointer": {
-            "type": "cross"
+            "type": "shadow"
         },
         "showContent": true,
         "alwaysShowContent": false,
@@ -341,7 +367,7 @@
     },
     "xAxis": [
         {
-            "name": "\u5e74\u4efd",
+            "name": "\u5382\u5546",
             "show": true,
             "scale": false,
             "nameLocation": "end",
@@ -376,10 +402,12 @@
             "animationEasingUpdate": "cubicOut",
             "animationDelayUpdate": 0,
             "data": [
-                "2021",
-                "2022",
-                "2023",
-                "2024"
+                "vivo",
+                "\u534e\u4e3a",
+                "\u82f9\u679c",
+                "OPPO",
+                "\u8363\u8000",
+                "\u5176\u4ed6"
             ]
         }
     ],
@@ -424,7 +452,7 @@
     "title": [
         {
             "show": true,
-            "text": "\u56fe2: vivo\u624b\u673a\u5e74\u51fa\u8d27\u91cf\u8d8b\u52bf\u5bf9\u6bd4",
+            "text": "\u56fe2: 2023 vs 2024 \u51fa\u8d27\u91cf\u5bf9\u6bd4",
             "target": "blank",
             "subtarget": "blank",
             "padding": 5,
@@ -438,13 +466,13 @@
         }
     ]
 };
-        chart_bar_comparison.setOption(option_bar_comparison);
+        chart_41f8412fc86d40f08cf6653abb84817d.setOption(option_41f8412fc86d40f08cf6653abb84817d);
     </script>
-<br/>                <div id="pie_market_share" class="chart-container" style="position: absolute; width: 50%; height: 50%; top: 50%; left: 0%;"></div>
+<br/>                <div id="81a148950c25413a830ba32babfe6733" class="chart-container" style="width:900px; height:500px; "></div>
     <script>
-        var chart_pie_market_share = echarts.init(
-            document.getElementById('pie_market_share'), 'dark', {renderer: 'canvas'});
-        var option_pie_market_share = {
+        var chart_81a148950c25413a830ba32babfe6733 = echarts.init(
+            document.getElementById('81a148950c25413a830ba32babfe6733'), 'dark', {renderer: 'canvas'});
+        var option_81a148950c25413a830ba32babfe6733 = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -486,32 +514,32 @@
             "data": [
                 {
                     "name": "vivo",
-                    "value": 17
+                    "value": 11
                 },
                 {
                     "name": "\u534e\u4e3a",
-                    "value": 16
+                    "value": 37
                 },
                 {
                     "name": "\u82f9\u679c",
-                    "value": 15
+                    "value": -17
                 },
                 {
                     "name": "OPPO",
-                    "value": 15
+                    "value": -3
                 },
                 {
                     "name": "\u8363\u8000",
-                    "value": 15
+                    "value": -3
                 },
                 {
                     "name": "\u5176\u4ed6",
-                    "value": 22
+                    "value": 12
                 }
             ],
             "radius": [
                 "30%",
-                "50%"
+                "60%"
             ],
             "center": [
                 "50%",
@@ -553,9 +581,6 @@
             ],
             "selected": {},
             "show": true,
-            "left": "15%",
-            "top": "15%",
-            "orient": "vertical",
             "padding": 5,
             "itemGap": 10,
             "itemWidth": 25,
@@ -601,7 +626,7 @@
     "title": [
         {
             "show": true,
-            "text": "\u56fe3: 2024\u5e74\u5e02\u573a\u4efd\u989d",
+            "text": "\u56fe3: 2024\u5e74\u5e02\u573a\u4efd\u989d (\u73ab\u7470\u56fe)",
             "target": "blank",
             "subtarget": "blank",
             "padding": 5,
@@ -615,13 +640,13 @@
         }
     ]
 };
-        chart_pie_market_share.setOption(option_pie_market_share);
+        chart_81a148950c25413a830ba32babfe6733.setOption(option_81a148950c25413a830ba32babfe6733);
     </script>
-<br/>                <div id="bar_growth_rate" class="chart-container" style="position: absolute; width: 50%; height: 50%; top: 50%; left: 50%;"></div>
+<br/>                <div id="b20e01adcdc945d4bb542807c3a48a5b" class="chart-container" style="width:900px; height:500px; "></div>
     <script>
-        var chart_bar_growth_rate = echarts.init(
-            document.getElementById('bar_growth_rate'), 'dark', {renderer: 'canvas'});
-        var option_bar_growth_rate = {
+        var chart_b20e01adcdc945d4bb542807c3a48a5b = echarts.init(
+            document.getElementById('b20e01adcdc945d4bb542807c3a48a5b'), 'dark', {renderer: 'canvas'});
+        var option_b20e01adcdc945d4bb542807c3a48a5b = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -704,10 +729,10 @@
     ],
     "tooltip": {
         "show": true,
-        "trigger": "item",
+        "trigger": "axis",
         "triggerOn": "mousemove|click",
         "axisPointer": {
-            "type": "line"
+            "type": "shadow"
         },
         "showContent": true,
         "alwaysShowContent": false,
@@ -825,7 +850,7 @@
         }
     ]
 };
-        chart_bar_growth_rate.setOption(option_bar_growth_rate);
+        chart_b20e01adcdc945d4bb542807c3a48a5b.setOption(option_b20e01adcdc945d4bb542807c3a48a5b);
     </script>
 <br/>    </div>
     <script>

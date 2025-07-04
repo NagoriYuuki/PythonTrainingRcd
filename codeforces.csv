@@ -1,0 +1,999 @@
+"id","dark","notice","notice 2","notice 3","notice 4","notice 5","ProblemRating","dark 3","tablescraper-selected-row","tablescraper-selected-row 2","right"
+"","","","","","","","","","","",""
+"2123G","Modular Sorting","暴力枚举（brute force）","数据结构（data structures）","贪心（greedy）","数学（math）","数论（number theory）","2100","x1270","","",""
+"2123F","","构造（constructive algorithms）","数论（number theory）","","","","1700","","Minimize Fixed Points",",","x5100"
+"2123E","MEX Count","二分（binary search）","数据结构（data structures）","贪心（greedy）","排序（sortings）","双指针（two pointers）","1400","x8135","","",""
+"2123D","","构造（constructive algorithms）","博弈论（games）","贪心（greedy）","","","1200","","Binary String Battle",",
+                        ,","x13126"
+"2123C","Prefix Min and Suffix Max","暴力枚举（brute force）","数据结构（data structures）","","","","1000","x19784","","",""
+"2123B","","贪心（greedy）","","","","","800","","Tournament","","x23101"
+"2123A","Blackboard Game","数学（math）","","","","","800","x27747","","",""
+"2121H","","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","动态规划（dp）","模拟（implementation）","2300","","Ice Baby",",
+                        ,
+                        ,
+                        ,
+                        ,","x1120"
+"2121G","Gangsta","数据结构（data structures）","分治（divide and conquer）","数学（math）","排序（sortings）","","1900","x2828","","",""
+"2121F","","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","贪心（greedy）","双指针（two pointers）","1800","","Yamakasi",",
+                        ,
+                        ,
+                        ,","x4736"
+"2121E","Sponsor of Your 问题s","动态规划（dp）","贪心（greedy）","模拟（implementation）","字符串处理（strings）","","1500","x9058","","",""
+"2121D","","模拟（implementation）","排序（sortings）","","","","1300","","1709",",","x12581"
+"2121C","Those 提交者 Are With Us","贪心（greedy）","贪心（greedy）","模拟（implementation）","","","1200","x15204","","",""
+"2121B","","构造（constructive algorithms）","贪心（greedy）","字符串处理（strings）","","","800","","Above the Clouds",",
+                        ,","x25579"
+"2121A","Letter Home","暴力枚举（brute force）","数学（math）","","","","800","x30108","","",""
+"2120G","","图论（graphs）","贪心（greedy）","数学（math）","","","3000","","Eulerian Line Graph",",
+                        ,","x56"
+"2120F","Superb Graphs","2-SAT（2-sat）","图论（graphs）","","","","2600","x181","","",""
+"2120E","","二分（binary search）","动态规划（dp）","三分（ternary search）","","","2300","","Lanes of Cars",",
+                        ,","x1100"
+"2120D","Matrix game","组合数学（combinatorics）","数学（math）","","","","1800","x3820","","",""
+"2120C","","构造（constructive algorithms）","贪心（greedy）","数学（math）","排序（sortings）","树形结构（trees）","1400","","Divine Tree",",
+                        ,
+                        ,
+                        ,","x8269"
+"2120B","Square Pool","计算几何（geometry）","","","","","1000","x12974","","",""
+"2120A","","计算几何（geometry）","数学（math）","","","","800","","Square of Rectangles",",","x15335"
+"2118F","Shifts and Swaps","数据结构（data structures）","图论（graphs）","哈希表（hashing）","树形结构（trees）","","3100","x153","","",""
+"2118E","","构造（constructive algorithms）","计算几何（geometry）","贪心（greedy）","数学（math）","","2400","","Grid Coloring",",
+                        ,
+                        ,","x929"
+"2118D2","Red Light, Green Light (Hard version)","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","DFS及其变种（dfs and similar）","动态规划（dp）","2200","x1576","","",""
+"2118D1","","暴力枚举（brute force）","DFS及其变种（dfs and similar）","动态规划（dp）","图论（graphs）","模拟（implementation）","1700","","Red Light, Green Light (Easy version)",",
+                        ,
+                        ,
+                        ,
+                        ,","x5005"
+"2118C","Make It Beautiful","状态压缩（bitmasks）","数据结构（data structures）","贪心（greedy）","数学（math）","","1300","x14142","","",""
+"2118B","","构造（constructive algorithms）","","","","","1200","","Make It Permutation","","x15727"
+"2118A","Equal Subsequences","构造（constructive algorithms）","贪心（greedy）","","","","800","x24349","","",""
+"2117H","","数据结构（data structures）","分治（divide and conquer）","排序（sortings）","","","2500","","Incessant Rain",",
+                        ,","x526"
+"2117G","Omg Graph","暴力枚举（brute force）","并查集（dsu）","图论（graphs）","贪心（greedy）","最短路（shortest paths）","1900","x3133","","",""
+"2117F","","组合数学（combinatorics）","DFS及其变种（dfs and similar）","树形结构（trees）","","","1800","","Wildflower",",
+                        ,","x4082"
+"2117E","Lost Soul","暴力枚举（brute force）","贪心（greedy）","","","","1600","x8536","","",""
+"2117D","","二分（binary search）","数学（math）","数论（number theory）","","","1200","","Retaliation",",
+                        ,","x16732"
+"2117C","Cool Partition","数据结构（data structures）","贪心（greedy）","","","","1200","x16073","","",""
+"2117B","","构造（constructive algorithms）","","","","","800","","Shrink","","x26495"
+"2117A","False Alarm","贪心（greedy）","模拟（implementation）","","","","800","x30465","","",""
+"2116B","","贪心（greedy）","数学（math）","排序（sortings）","","","1300","","Gellyfish and Baby's Breath",",
+                        ,","x13864"
+"2116A","Gellyfish and Tricolor Pansy","博弈论（games）","贪心（greedy）","","","","800","x22979","","",""
+"2115F2","","数据结构（data structures）","","","","","3500","","Gellyfish and Lycoris Radiata (Hard Version)","","x43"
+"2115F1","Gellyfish and Lycoris Radiata (Easy Version)","数据结构（data structures）","","","","","3500","x40","","",""
+"2115E","","动态规划（dp）","图论（graphs）","","","","3500","","Gellyfish and Mayflower",",","x124"
+"2115D","Gellyfish and Forget-Me-Not","状态压缩（bitmasks）","动态规划（dp）","博弈论（games）","贪心（greedy）","数学（math）","2900","x484","","",""
+"2115C","","组合数学（combinatorics）","动态规划（dp）","贪心（greedy）","数学（math）","概率论（probabilities）","2700","","Gellyfish and Eternal Violet",",
+                        ,
+                        ,
+                        ,","x553"
+"2115B","Gellyfish and Camellia Japonica","暴力枚举（brute force）","构造（constructive algorithms）","DFS及其变种（dfs and similar）","动态规划（dp）","图论（graphs）","2100","x2689","","",""
+"2115A","","构造（constructive algorithms）","动态规划（dp）","数学（math）","数论（number theory）","","1500","","Gellyfish and Flaming Peony",",
+                        ,
+                        ,","x10531"
+"2114G","Build an Array","暴力枚举（brute force）","构造（constructive algorithms）","动态规划（dp）","贪心（greedy）","数学（math）","2200","x1402","","",""
+"2114F","","二分（binary search）","暴力枚举（brute force）","DFS及其变种（dfs and similar）","动态规划（dp）","数学（math）","2000","","Small Operations",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x3881"
+"2114E","Kirei Attacks the Estate","DFS及其变种（dfs and similar）","动态规划（dp）","贪心（greedy）","树形结构（trees）","","1400","x10198","","",""
+"2114D","","暴力枚举（brute force）","贪心（greedy）","模拟（implementation）","数学（math）","","1400","","Come a Little Closer",",
+                        ,
+                        ,","x11486"
+"2114C","Need More Arrays","动态规划（dp）","贪心（greedy）","","","","1000","x24699","","",""
+"2114B","","贪心（greedy）","数学（math）","","","","900","","Not Quite a Palindromic String",",","x24819"
+"2114A","Square Year","二分（binary search）","暴力枚举（brute force）","数学（math）","","","800","x34514","","",""
+"2113F","","构造（constructive algorithms）","DFS及其变种（dfs and similar）","图论（graphs）","数学（math）","","2500","","Two Arrays",",
+                        ,
+                        ,","x517"
+"2113E","From Kazan with Love","DFS及其变种（dfs and similar）","图论（graphs）","模拟（implementation）","树形结构（trees）","","2800","x221","","",""
+"2113D","","二分（binary search）","构造（constructive algorithms）","贪心（greedy）","模拟（implementation）","","2200","","Cheater",",
+                        ,
+                        ,","x1778"
+"2113C","Smilo and Minecraft","暴力枚举（brute force）","构造（constructive algorithms）","贪心（greedy）","","","1700","x5495","","",""
+"2113B","","构造（constructive algorithms）","数学（math）","","","","1200","","Good Start",",","x10298"
+"2113A","Shashliks","贪心（greedy）","数学（math）","","","","800","x15924","","",""
+"2112F","","图论（graphs）","贪心（greedy）","最短路（shortest paths）","","","2800","","Variables and Operations",",
+                        ,","x330"
+"2112E","Tree Colorings","组合数学（combinatorics）","DFS及其变种（dfs and similar）","动态规划（dp）","图论（graphs）","数学（math）","2200","x1995","","",""
+"2112D","","构造（constructive algorithms）","DFS及其变种（dfs and similar）","图论（graphs）","树形结构（trees）","","1700","","","","x6146"
+"2112C","Coloring Game","二分（binary search）","暴力枚举（brute force）","贪心（greedy）","双指针（two pointers）","","1300","x12430","","",""
+"2112B","","暴力枚举（brute force）","贪心（greedy）","","","","1100","","","","x15625"
+"2112A","Race","模拟（implementation）","数学（math）","","","","800","x22576","","",""
+"2111G","","二分（binary search）","状态压缩（bitmasks）","暴力枚举（brute force）","数据结构（data structures）","交互题（interactive）","2900","","Divisible Subarrays",",
+                        ,
+                        ,
+                        ,","x236"
+"2111F","Puzzle","暴力枚举（brute force）","构造（constructive algorithms）","贪心（greedy）","数学（math）","","2400","x1056","","",""
+"2111E","","二分（binary search）","数据结构（data structures）","贪心（greedy）","模拟（implementation）","排序（sortings）","1900","","Changing the String",",
+                        ,
+                        ,
+                        ,
+                        ,","x4101"
+"2111D","Creating a Schedule","构造（constructive algorithms）","数据结构（data structures）","贪心（greedy）","模拟（implementation）","排序（sortings）","1400","x9400","","",""
+"2111C","","暴力枚举（brute force）","贪心（greedy）","双指针（two pointers）","","","1100","","","","x15251"
+"2111B","Fibonacci Cubes","暴力枚举（brute force）","动态规划（dp）","模拟（implementation）","数学（math）","","1100","x14411","","",""
+"2111A","","贪心（greedy）","模拟（implementation）","数学（math）","","","800","","","","x17961"
+"2110F","Faculty","暴力枚举（brute force）","贪心（greedy）","数学（math）","数论（number theory）","","2400","x1323","","",""
+"2110E","","DFS及其变种（dfs and similar）","图论（graphs）","模拟（implementation）","","","2300","","Melody",",
+                        ,","x1615"
+"2110D","Fewer Batteries","二分（binary search）","DFS及其变种（dfs and similar）","动态规划（dp）","图论（graphs）","贪心（greedy）","1700","x6246","","",""
+"2110C","","构造（constructive algorithms）","贪心（greedy）","","","","1400","","","","x12217"
+"2110B","Down with Brackets","字符串处理（strings）","","","","","900","x21392","","",""
+"2110A","","模拟（implementation）","排序（sortings）","","","","800","","","","x24968"
+"2109F","Penguin Steps","二分（binary search）","DFS及其变种（dfs and similar）","流（flows）","图论（graphs）","最短路（shortest paths）","3000","x178","","",""
+"2109E","","组合数学（combinatorics）","动态规划（dp）","字符串处理（strings）","","","2400","","Binary String Wowee",",
+                        ,","x1026"
+"2109D","D/D/D","DFS及其变种（dfs and similar）","图论（graphs）","贪心（greedy）","最短路（shortest paths）","","1900","x3927","","",""
+"2109C3","","构造（constructive algorithms）","交互题（interactive）","数学（math）","数论（number theory）","","2600","","Hacking Numbers (Hard Version)",",
+                        ,
+                        ,","x2461"
+"2109C2","Hacking Numbers (Medium Version)","构造（constructive algorithms）","交互题（interactive）","数学（math）","数论（number theory）","","1700","x6808","","",""
+"2109C1","","状态压缩（bitmasks）","构造（constructive algorithms）","交互题（interactive）","数学（math）","数论（number theory）","1500","","Hacking Numbers (Easy Version)",",
+                        ,
+                        ,
+                        ,","x8942"
+"2109B","Slice to Survive","状态压缩（bitmasks）","贪心（greedy）","数学（math）","","","1200","x14406","","",""
+"2109A","","模拟（implementation）","","","","","800","","It's 时间 To Duel","","x23214"
+"2108F","Fallen Towers","二分（binary search）","贪心（greedy）","","","","2900","x356","","",""
+"2108E","","构造（constructive algorithms）","DFS及其变种（dfs and similar）","图论（graphs）","贪心（greedy）","模拟（implementation）","2600","","Spruce Dispute",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x566"
+"2108D","Needle in a Numstack","二分（binary search）","暴力枚举（brute force）","模拟（implementation）","交互题（interactive）","","2200","x1955","","",""
+"2108C","","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","动态规划（dp）","并查集（dsu）","1500","","","","x11241"
+"2108B","SUMdamental Decomposition","状态压缩（bitmasks）","构造（constructive algorithms）","贪心（greedy）","模拟（implementation）","数学（math）","1300","x11962","","",""
+"2108A","","组合数学（combinatorics）","贪心（greedy）","数学（math）","","","800","","Permutation Warm-Up",",
+                        ,","x19273"
+"2107F2","Cycling (Hard Version)","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","动态规划（dp）","贪心（greedy）","2800","x319","","",""
+"2107F1","","二分（binary search）","暴力枚举（brute force）","动态规划（dp）","贪心（greedy）","","2300","","Cycling (Easy Version)",",
+                        ,
+                        ,","x1385"
+"2107E","Ain and Apple Tree","二分（binary search）","构造（constructive algorithms）","贪心（greedy）","数学（math）","树形结构（trees）","2600","x605","","",""
+"2107D","","暴力枚举（brute force）","DFS及其变种（dfs and similar）","贪心（greedy）","模拟（implementation）","树形结构（trees）","2100","","Apple Tree Traversing",",
+                        ,
+                        ,
+                        ,","x2824"
+"2107C","Maximum Subarray Sum","二分（binary search）","构造（constructive algorithms）","动态规划（dp）","模拟（implementation）","数学（math）","1500","x9255","","",""
+"2107B","","博弈论（games）","贪心（greedy）","数学（math）","","","1100","","Apples in Boxes",",
+                        ,","x16362"
+"2107A","LRC and VIP","贪心（greedy）","数论（number theory）","","","","800","x19341","","",""
+"2106G2","","二分（binary search）","DFS及其变种（dfs and similar）","分治（divide and conquer）","模拟（implementation）","交互题（interactive）","2500","","","",""
+"2106G1","Baudelaire (easy version)","binary search","constructive algorithms","divide and conquer","greedy","interactive","2200","x1285","","",""
+"2106F","","dfs and similar","dp","dsu","greedy","math","1900","","Goblin",",
+                        ,
+                        ,
+                        ,","x3349"
+"2106E","Wolf","binary search","greedy","math","","","1800","x4733","","",""
+"2106D","","binary search","dp","greedy","two pointers","","1500","","Flower Boy",",
+                        ,
+                        ,","x9601"
+"2106C","Cherry Bomb","greedy","math","sortings","","","1000","x20944","","",""
+"2106B","","constructive algorithms","greedy","math","","","900","","St. Chroma",",
+                        ,","x23714"
+"2106A","Dr. TC","brute force","math","","","","800","x31199","","",""
+"2104G","","data structures","divide and conquer","dsu","graphs","trees","2700","","Modulo 3",",
+                        ,
+                        ,
+                        ,","x347"
+"2104F","Numbers and Strings","binary search","brute force","dfs and similar","dp","implementation","2600","x542","","",""
+"2104E","","binary search","dp","greedy","strings","","1700","","Unpleasant Strings",",
+                        ,
+                        ,","x6309"
+"2104D","Array and GCD","binary search","greedy","math","number theory","","1400","x10456","","",""
+"2104C","","brute force","constructive algorithms","games","greedy","math","1100","","Card Game",",
+                        ,
+                        ,
+                        ,","x14470"
+"2104B","Move to the End","brute force","data structures","dp","greedy","implementation","1000","x16713","","",""
+"2104A","","math","","","","","800","","Three Decks","","x21825"
+"2103F","Maximize Nor","bitmasks","data structures","dp","implementation","sortings","2600","x479","","",""
+"2103E","","constructive algorithms","implementation","two pointers","","","2600","","Keep the Sum",",
+                        ,","x437"
+"2103D","Local Construction","constructive algorithms","dfs and similar","implementation","two pointers","","2000","x3210","","",""
+"2103C","","binary search","greedy","implementation","sortings","","1600","","Median Splits",",
+                        ,
+                        ,","x8541"
+"2103B","Binary Typewriter","greedy","math","","","","1100","x15141","","",""
+"2103A","","brute force","greedy","implementation","math","","800","","Common Multiple",",
+                        ,
+                        ,","x22015"
+"2102B","The Picky Cat","implementation","sortings","","","","900","x16139","","",""
+"2102A","","constructive algorithms","math","","","","900","","Dinner Time",",","x17541"
+"2101F","Shoo Shatters the Sunshine","combinatorics","dp","trees","","","3300","x90","","",""
+"2101E","","data structures","dp","greedy","trees","","3100","","Kia Bakes a Cake",",
+                        ,
+                        ,","x176"
+"2101D","Mani and Segments","data structures","implementation","sortings","two pointers","","2500","x719","","",""
+"2101C","","binary search","brute force","data structures","greedy","ternary search","2200","","23 Kingdom",",
+                        ,
+                        ,
+                        ,
+                        ,","x1676"
+"2101B","Quartet Swapping","brute force","data structures","divide and conquer","greedy","sortings","1800","x5402","","",""
+"2101A","","constructive algorithms","implementation","","","","1300","","Mex in the Grid",",","x11198"
+"2098B","Sasha and the Apartment Purchase","math","sortings","","","","1400","x6047","","",""
+"2098A","","brute force","greedy","","","","800","","Vadim's Collection",",","x12268"
+"2097F","Lost Luggage","dp","flows","","","","3500","x75","","",""
+"2097E","","data structures","dfs and similar","dp","greedy","","3100","","Clearing the Snowdrift",",
+                        ,
+                        ,","x144"
+"2097D","Homework","bitmasks","math","matrices","","","2800","x357","","",""
+"2097C","","chinese remainder theorem","geometry","implementation","math","number theory","2400","","Bermuda Triangle",",
+                        ,
+                        ,
+                        ,","x731"
+"2097B","Baggage Claim","combinatorics","dfs and similar","dp","dsu","graphs","2300","x1400","","",""
+"2097A","","2-sat","brute force","math","sortings","","1400","","Sports Betting",",
+                        ,
+                        ,","x6536"
+"2096H","Wonderful XOR Problem","bitmasks","combinatorics","dp","fft","math","3200","x121","","",""
+"2096G","","bitmasks","constructive algorithms","interactive","","","3200","","Wonderful Guessing Game",",
+                        ,","x281"
+"2096F","Wonderful Impostors","data structures","implementation","two pointers","","","3100","x343","","",""
+"2096E","","greedy","implementation","sortings","","","2400","","Wonderful Teddy Bears",",
+                        ,","x1690"
+"2096D","Wonderful Lightbulbs","combinatorics","constructive algorithms","math","","","2000","x4547","","",""
+"2096C","","dp","implementation","","","","1700","","Wonderful City",",","x6432"
+"2096B","Wonderful Gloves","greedy","math","sortings","","","1100","x14348","","",""
+"2096A","","constructive algorithms","greedy","","","","800","","Wonderful Sticks",",","x18621"
+"2095J","Premiere at a Wrong Time","*special problem","","","","","","x415","","",""
+"2095I","","*special problem","expression parsing","number theory","","","","","Mysterious Script",",
+                        ,","x573"
+"2095H","Blurry Vision","*special problem","fft","math","","","","x693","","",""
+"2095G","","*special problem","geometry","","","","","","Definitely a Geometry Problem",",","x856"
+"2095F","⅓ оf а Рrоblеm","*special problem","math","","","","","x667","","",""
+"2095E","","*special problem","number theory","","","","","","Pair Count",",","x686"
+"2095D","Where Am I?","*special problem","geometry","","","","","x4707","","",""
+"2095C","","*special problem","binary search","brute force","","","","","Would It Be Unrated?",",
+                        ,","x2958"
+"2095B","Plinko","*special problem","games","interactive","","","","x5056","","",""
+"2095A","","*special problem","string suffix structures","","","","","","Piecing It Together",",","x12099"
+"2094H","La Vaca Saturno Saturnita","binary search","brute force","math","number theory","","1900","x2890","","",""
+"2094G","","data structures","implementation","math","","","1700","","Chimpanzini Bananini",",
+                        ,","x5959"
+"2094F","Trulimero Trulicina","constructive algorithms","","","","","1600","x8745","","",""
+"2094E","","bitmasks","","","","","1200","","Boneca Ambalabu","","x14930"
+"2094D","Tung Tung Sahur","greedy","strings","two pointers","","","1100","x18801","","",""
+"2094C","","math","","","","","900","","Brr Brrr Patapim","","x24544"
+"2094B","Bobritto Bandito","brute force","constructive algorithms","","","","800","x27101","","",""
+"2094A","","strings","","","","","800","","Trippi Troppi","","x41414"
+"2093G","Shorten the Array","binary search","bitmasks","data structures","dfs and similar","greedy","1900","x2807","","",""
+"2093F","","bitmasks","brute force","greedy","","","1800","","Hackers and Neural Networks",",
+                        ,","x5009"
+"2093E","Min Max MEX","binary search","brute force","greedy","","","1500","x10957","","",""
+"2093D","","bitmasks","implementation","","","","1400","","Skibidi Table",",","x10549"
+"2093C","Simple Repetition","math","number theory","","","","1000","x25924","","",""
+"2093B","","greedy","math","","","","900","","Expensive Number",",","x26312"
+"2093A","Ideal Generator","math","","","","","800","x35178","","",""
+"2092F","","brute force","constructive algorithms","greedy","math","number theory","2900","","Andryusha and CCB",",
+                        ,
+                        ,
+                        ,
+                        ,","x324"
+"2092E","She knows...","combinatorics","constructive algorithms","graphs","math","","2100","x3012","","",""
+"2092D","","brute force","constructive algorithms","greedy","implementation","strings","1800","","Mishkin Energizer",",
+                        ,
+                        ,
+                        ,","x5719"
+"2092C","Asuna and the Mosquitoes","constructive algorithms","greedy","math","","","1200","x19208","","",""
+"2092B","","brute force","constructive algorithms","implementation","math","","1000","","Lady Bug",",
+                        ,
+                        ,","x21129"
+"2092A","Kamilka and the Sheep","greedy","math","number theory","sortings","","800","x25709","","",""
+"2091G","","brute force","constructive algorithms","data structures","dp","graphs","2300","","Gleb and Boating",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x1256"
+"2091F","Igor and Mountain","binary search","brute force","dp","","","1800","x5199","","",""
+"2091E","","brute force","math","number theory","two pointers","","1300","","Interesting Ratio",",
+                        ,
+                        ,","x16656"
+"2091D","Place of the Olympiad","binary search","greedy","math","","","1200","x19977","","",""
+"2091C","","constructive algorithms","greedy","","","","1000","","Combination Lock",",","x24813"
+"2091B","Team Training","dp","greedy","sortings","","","800","x29132","","",""
+"2091A","","greedy","strings","","","","800","","Olympiad Date",",","x35058"
+"2090C","Dining Hall","data structures","greedy","implementation","sortings","","1700","x5213","","",""
+"2090B","","brute force","dp","implementation","","","1000","","Pushing Balls",",
+                        ,","x13870"
+"2090A","Treasure Hunt","implementation","math","","","","800","x18409","","",""
+"2089E","","","","","","","3500","","Black Cat Collapse","","x92"
+"2089D","Conditional Operators","constructive algorithms","","","","","3200","x131","","",""
+"2089C2","","dp","math","probabilities","","","3100","","Key of Like (Hard Version)",",
+                        ,","x182"
+"2089C1","Key of Like (Easy Version)","dp","games","math","probabilities","","2200","x1060","","",""
+"2089B2","","binary search","data structures","dp","flows","greedy","2300","","Canteen (Hard Version)",",
+                        ,
+                        ,
+                        ,
+                        ,","x1010"
+"2089B1","Canteen (Easy Version)","binary search","data structures","flows","greedy","two pointers","1900","x2447","","",""
+"2089A","","constructive algorithms","number theory","","","","1700","","Simple Permutation",",","x5826"
+"2087I","Hamiltonian Partition","*special problem","*special problem","","","","","x15","","",""
+"2087H","","*special problem","*special problem","","","","","","Nim with Special Numbers",",","x18"
+"2087G","Esports in Berland","*special problem","*special problem","greedy","greedy","","","x78","","",""
+"2087F","","*special problem","*special problem","dp","","","","","Weapon Upgrade",",
+                        ,","x56"
+"2087E","Color the Arrows","*special problem","*special problem","dp","dp","","","x142","","",""
+"2087D","","*special problem","*special problem","interactive","","","","","Uppercase or Lowercase?",",
+                        ,","x244"
+"2087C","Coin Game","*special problem","greedy","","","","","x452","","",""
+"2087B","","*special problem","","","","","","","","",""
+"2087A","Password Generator","*special problem","","","","","","x979","","",""
+"2086F","","暴力枚举（brute force）","构造（constructive algorithms）","交互题（interactive）","","","3000","","Online Palindrome",",
+                        ,","x104"
+"2086E","Zebra-like Numbers","状态压缩（bitmasks）","暴力枚举（brute force）","构造（constructive algorithms）","DFS及其变种（dfs and similar）","动态规划（dp）","2400","x1273","","",""
+"2086D","","暴力枚举（brute force）","组合数学（combinatorics）","动态规划（dp）","数学（math）","字符串处理（strings）","1700","","Even String",",
+                        ,
+                        ,
+                        ,","x6656"
+"2086C","Disappearing Permutation","DFS及其变种（dfs and similar）","动态规划（dp）","并查集（dsu）","图论（graphs）","贪心（greedy）","1300","x13503","","",""
+"2086B","","二分（binary search）","暴力枚举（brute force）","贪心（greedy）","","","1100","","Large Array and Segments",",
+                        ,","x16753"
+"2086A","Cloudberry Jam","数学（math）","","","","","800","x29502","","",""
+"2085F2","","数据结构（data structures）","贪心（greedy）","","","","2900","","Serval and Colorful Array (Hard Version)",",","x315"
+"2085F1","Serval and Colorful Array (Easy Version)","数据结构（data structures）","贪心（greedy）","","","","2600","x552","","",""
+"2085E","","构造（constructive algorithms）","数学（math）","数论（number theory）","","","2200","","Serval and Modulo",",
+                        ,","x2589"
+"2085D","Serval and Kaitenzushi Buffet","数据结构（data structures）","图匹配（graph matchings）","贪心（greedy）","","","2000","x4277","","",""
+"2085C","","状态压缩（bitmasks）","构造（constructive algorithms）","动态规划（dp）","贪心（greedy）","","1600","","Serval and The Formula",",
+                        ,
+                        ,","x11091"
+"2085B","Serval and Final MEX","构造（constructive algorithms）","模拟（implementation）","","","","1200","x14750","","",""
+"2085A","","构造（constructive algorithms）","模拟（implementation）","","","","900","","Serval and String Theory",",","x20628"
+"2084H","Turtle and Nediam 2","动态规划（dp）","贪心（greedy）","","","","3500","x67","","",""
+"2084G2","","数据结构（data structures）","动态规划（dp）","","","","3500","","Wish Upon a Satellite (Hard Version)",",","x70"
+"2084G1","Wish Upon a Satellite (Easy Version)","动态规划（dp）","博弈论（games）","","","","2600","x519","","",""
+"2084F","","构造（constructive algorithms）","数据结构（data structures）","贪心（greedy）","","","2900","","Skyscape",",
+                        ,","x333"
+"2084E","Blossom","二分（binary search）","组合数学（combinatorics）","动态规划（dp）","模拟（implementation）","数学（math）","2400","x1408","","",""
+"2084D","","二分（binary search）","暴力枚举（brute force）","构造（constructive algorithms）","贪心（greedy）","数学（math）","1600","","Arcology On Permafrost",",
+                        ,
+                        ,
+                        ,","x7069"
+"2084C","You Soared Afar With Grace","构造（constructive algorithms）","数据结构（data structures）","贪心（greedy）","模拟（implementation）","","1400","x9635","","",""
+"2084B","","贪心（greedy）","数学（math）","数论（number theory）","","","1100","","MIN = GCD",",
+                        ,","x14045"
+"2084A","Max and Mod","构造（constructive algorithms）","数学（math）","","","","800","x15828","","",""
+"2082B","","暴力枚举（brute force）","贪心（greedy）","","","","1600","","Floor or Ceil",",","x6598"
+"2082A","Binary Matrix","构造（constructive algorithms）","贪心（greedy）","","","","800","x10002","","",""
+"2081G2","","数学（math）","","","","","3400","","Hard Formula (Hard Version)","","x31"
+"2081G1","Hard Formula","数学（math）","数论（number theory）","","","","3100","x59","","",""
+"2081F","","构造（constructive algorithms）","数学（math）","","","","3300","","Hot Matrix",",","x86"
+"2081E","Quantifier","组合数学（combinatorics）","动态规划（dp）","模拟（implementation）","","","3300","x51","","",""
+"2081D","","构造（constructive algorithms）","并查集（dsu）","图论（graphs）","贪心（greedy）","数学（math）","2600","","MST in Modulo Graph",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x824"
+"2081C","Quaternary Matrix","状态压缩（bitmasks）","构造（constructive algorithms）","贪心（greedy）","模拟（implementation）","矩阵（matrices）","2700","x263","","",""
+"2081B","","贪心（greedy）","","","","","2500","","Balancing","","x788"
+"2081A","Math Division","状态压缩（bitmasks）","动态规划（dp）","数学（math）","概率论（probabilities）","","1800","x3038","","",""
+"2080D","","*special problem","二分（binary search）","","","","3400","","Order Statistics",",","x39"
+"2080C","Card Flip","*special problem","","","","","2300","x126","","",""
+"2080B","","*special problem","","","","","1700","","Best Runner","","x312"
+"2080A","Strong Connectivity Strikes Back","*special problem","构造（constructive algorithms）","图论（graphs）","","","3200","x31","","",""
+"2079D","","*special problem","排序（sortings）","","","","1800","","Cute Subsequences",",","x446"
+"2079C","Dreaming Is Not Harmful","*special problem","","","","","2300","x165","","",""
+"2079B","","*special problem","数据结构（data structures）","动态规划（dp）","贪心（greedy）","","2600","","Arithmetic Exercise",",
+                        ,
+                        ,","x127"
+"2079A","Alice, Bob, And Two Arrays","*special problem","数据结构（data structures）","动态规划（dp）","博弈论（games）","","3300","x20","","",""
+"2078D","","动态规划（dp）","贪心（greedy）","模拟（implementation）","","","1800","","Scammy Game Ad",",
+                        ,","x5190"
+"2078B","Vicious Labyrinth","构造（constructive algorithms）","图论（graphs）","贪心（greedy）","模拟（implementation）","数学（math）","1100","x16387","","",""
+"2078A","","数学（math）","","","","","800","","Final 判题状态","","x21373"
+"2077G","RGB Walking","状态压缩（bitmasks）","中国剩余定理（chinese remainder theorem）","DFS及其变种（dfs and similar）","图论（graphs）","数论（number theory）","3500","x76","","",""
+"2077F","","状态压缩（bitmasks）","构造（constructive algorithms）","动态规划（dp）","","","3300","","AND x OR",",
+                        ,","x196"
+"2077E","Another Folding Strip","组合数学（combinatorics）","构造（constructive algorithms）","数据结构（data structures）","分治（divide and conquer）","动态规划（dp）","2700","x470","","",""
+"2077D","","暴力枚举（brute force）","数据结构（data structures）","贪心（greedy）","模拟（implementation）","数学（math）","3100","","Maximum Polygon",",
+                        ,
+                        ,
+                        ,","x265"
+"2077C","Binary Subsequence Value Sum","组合数学（combinatorics）","数据结构（data structures）","动态规划（dp）","快速傅里叶变换（fft）","数学（math）","2300","x1612","","",""
+"2077B","","状态压缩（bitmasks）","构造（constructive algorithms）","模拟（implementation）","交互题（interactive）","数学（math）","1900","","Finding OR Sum",",
+                        ,
+                        ,
+                        ,","x2871"
+"2077A","Breach of Faith","构造（constructive algorithms）","贪心（greedy）","数学（math）","排序（sortings）","","1500","x12106","","",""
+"2075F","","二分（binary search）","暴力枚举（brute force）","数据结构（data structures）","模拟（implementation）","","3000","","Beautiful Sequence Returns",",
+                        ,
+                        ,","x410"
+"2075E","XOR Matrix","状态压缩（bitmasks）","组合数学（combinatorics）","动态规划（dp）","模拟（implementation）","数学（math）","2500","x871","","",""
+"2075D","","状态压缩（bitmasks）","暴力枚举（brute force）","动态规划（dp）","图论（graphs）","数学（math）","2000","","Equalization",",
+                        ,
+                        ,
+                        ,","x4604"
+"2075C","Two Colors","二分（binary search）","组合数学（combinatorics）","数学（math）","","","1500","x11981","","",""
+"2075B","","构造（constructive algorithms）","贪心（greedy）","","","","1300","","Array Recoloring",",","x16311"
+"2075A","To Zero","贪心（greedy）","数学（math）","","","","800","x25527","","",""
+"2074G","","动态规划（dp）","计算几何（geometry）","","","","2100","","Game With Triangles: Season 2",",","x1720"
+"2074F","Counting Necessary Nodes","状态压缩（bitmasks）","分治（divide and conquer）","贪心（greedy）","模拟（implementation）","数学（math）","2000","x2086","","",""
+"2074E","","计算几何（geometry）","交互题（interactive）","概率论（probabilities）","","","1600","","Empty Triangle",",
+                        ,","x5466"
+"2074D","Counting Points","暴力枚举（brute force）","数据结构（data structures）","计算几何（geometry）","模拟（implementation）","双指针（two pointers）","1400","x10368","","",""
+"2074C","","状态压缩（bitmasks）","暴力枚举（brute force）","计算几何（geometry）","贪心（greedy）","概率论（probabilities）","1100","","XOR and Triangle",",
+                        ,
+                        ,
+                        ,","x19484"
+"2074B","The Third Side","计算几何（geometry）","贪心（greedy）","数学（math）","","","800","x31414","","",""
+"2074A","","计算几何（geometry）","模拟（implementation）","","","","800","","Draw a Square",",","x38234"
+"2073M","Can You Reach There?","","","","","","3300","x60","","",""
+"2073L","","","","","","","1300","","Boarding Queue","","x1301"
+"2073K","Book Sorting","","","","","","2900","x181","","",""
+"2073J","","","","","","","2000","","Gathering Sharks","","x821"
+"2073I","Squares on Grid Lines","","","","","","3100","x93","","",""
+"2073H","","交互题（interactive）","","","","","2700","","Secret Lilies and Roses","","x259"
+"2073G","Corrupted File","","","","","","2200","x662","","",""
+"2073F","","","","","","","3500","","Hold the Star","","x44"
+"2073E","Minus Operator","交互题（interactive）","","","","","3300","x60","","",""
+"2073D","","","","","","","2400","","Tower of Hanoi","","x401"
+"2073C","Cactus Connectivity","","","","","","2700","x249","","",""
+"2073B","","","","","","","3500","","Three-Dimensional Embedding","","x23"
+"2073A","Control Towers","","","","","","1900","x912","","",""
+"2072G","","二分（binary search）","暴力枚举（brute force）","组合数学（combinatorics）","分治（divide and conquer）","数学（math）","2200","","I've Been Flipping Numbers for 300 Years and Calculated the Sum",",
+                        ,
+                        ,
+                        ,
+                        ,","x1820"
+"2072F","Goodbye, Banker Life","2-SAT（2-sat）","状态压缩（bitmasks）","组合数学（combinatorics）","构造（constructive algorithms）","快速傅里叶变换（fft）","1700","x7080","","",""
+"2072E","","二分（binary search）","暴力枚举（brute force）","构造（constructive algorithms）","动态规划（dp）","计算几何（geometry）","1500","","Do You Love Your Hero and His Two-Hit Multi-Target Attacks?",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x10519"
+"2072D","For Wizards, the Exam Is Easy, but I Couldn't Handle It","暴力枚举（brute force）","贪心（greedy）","模拟（implementation）","","","1300","x15597","","",""
+"2072C","","状态压缩（bitmasks）","构造（constructive algorithms）","贪心（greedy）","","","1200","","Creating Keys for StORages Has Become My Main Skill",",
+                        ,","x17251"
+"2072B","Having Been a Treasurer in the Past, I Help Goblins Deceive","组合数学（combinatorics）","构造（constructive algorithms）","字符串处理（strings）","","","900","x27771","","",""
+"2072A","","贪心（greedy）","模拟（implementation）","数学（math）","","","800","","New World, New Me, New Array",",
+                        ,","x37220"
+"2071F","Towering Arrays","二分（binary search）","数据结构（data structures）","","","","2700","x219","","",""
+"2071E","","组合数学（combinatorics）","动态规划（dp）","概率论（probabilities）","树形结构（trees）","","2600","","LeaFall",",
+                        ,
+                        ,","x435"
+"2071D2","Infinite Sequence (Hard Version)","状态压缩（bitmasks）","暴力枚举（brute force）","构造（constructive algorithms）","数据结构（data structures）","动态规划（dp）","2500","x848","","",""
+"2071D1","","状态压缩（bitmasks）","暴力枚举（brute force）","动态规划（dp）","模拟（implementation）","数学（math）","1800","","Infinite Sequence (Easy Version)",",
+                        ,
+                        ,
+                        ,","x5585"
+"2071C","Trapmigiano Reggiano","构造（constructive algorithms）","数据结构（data structures）","DFS及其变种（dfs and similar）","动态规划（dp）","贪心（greedy）","1700","x8076","","",""
+"2071B","","暴力枚举（brute force）","构造（constructive algorithms）","贪心（greedy）","数学（math）","","1100","","Perfecto",",
+                        ,
+                        ,","x18569"
+"2071A","The Play Never Ends","数学（math）","数论（number theory）","","","","800","x25575","","",""
+"2070F","","状态压缩（bitmasks）","分治（divide and conquer）","动态规划（dp）","快速傅里叶变换（fft）","","3000","","Friends and Pizza",",
+                        ,
+                        ,","x278"
+"2070E","Game with Binary String","构造（constructive algorithms）","数据结构（data structures）","分治（divide and conquer）","博弈论（games）","贪心（greedy）","2200","x1468","","",""
+"2070D","","DFS及其变种（dfs and similar）","动态规划（dp）","树形结构（trees）","","","1600","","Tree Jumps",",
+                        ,","x8805"
+"2070C","Limited Repainting","二分（binary search）","贪心（greedy）","","","","1500","x11623","","",""
+"2070B","","暴力枚举（brute force）","模拟（implementation）","数学（math）","","","1100","","Robot Program",",
+                        ,","x17811"
+"2070A","FizzBuzz Remixed","暴力枚举（brute force）","数学（math）","","","","800","x24418","","",""
+"2069F","","数据结构（data structures）","DFS及其变种（dfs and similar）","分治（divide and conquer）","并查集（dsu）","图论（graphs）","2800","","Graph Inclusion",",
+                        ,
+                        ,
+                        ,","x642"
+"2069E","A, B, AB and BA","构造（constructive algorithms）","贪心（greedy）","排序（sortings）","字符串处理（strings）","","2300","x1592","","",""
+"2069D","","二分（binary search）","贪心（greedy）","哈希表（hashing）","字符串处理（strings）","双指针（two pointers）","1800","","","",""
+"2069C","Beautiful Sequence","combinatorics","dp","greedy","two pointers","","1500","x12484","","",""
+"2069B","","greedy","matrices","","","","1200","","Set of Strangers",",","x16824"
+"2069A","Was there an Array?","graph matchings","greedy","","","","800","x25050","","",""
+"2068K","","flows","graphs","","","","3000","","Amusement Park Rides",",","x149"
+"2068J","The Ultimate Wine Tasting Event","combinatorics","greedy","","","","2000","x1157","","",""
+"2068I","","graphs","shortest paths","","","","3500","","Pinball",",","x33"
+"2068H","Statues","constructive algorithms","greedy","math","","","2700","x310","","",""
+"2068G","","shortest paths","","","","","3500","","A Very Long Hike","","x35"
+"2068F","Mascot Naming","brute force","greedy","implementation","strings","","1900","x977","","",""
+"2068E","","data structures","dfs and similar","dsu","graphs","shortest paths","2800","","Porto Vs. Benfica",",
+                        ,
+                        ,
+                        ,","x252"
+"2068D","Morse Code","dp","sortings","trees","","","3100","x170","","",""
+"2068C","","binary search","greedy","two pointers","","","2100","","Ads",",
+                        ,","x1138"
+"2068B","Urban Planning","constructive algorithms","","","","","3100","x85","","",""
+"2068A","","constructive algorithms","graphs","greedy","probabilities","","2300","","Condorcet Elections",",
+                        ,
+                        ,","x731"
+"2067C","Devyatkino","brute force","dfs and similar","greedy","math","","1500","x11173","","",""
+"2067B","","brute force","dp","greedy","sortings","","1200","","","","x16573"
+"2067A","Adjacent Digit Sums","brute force","constructive algorithms","math","","","800","x23765","","",""
+"2066F","","constructive algorithms","dp","math","","","3300","","Curse",",
+                        ,","x51"
+"2066E","Tropical Season","binary search","data structures","greedy","implementation","","3300","x307","","",""
+"2066D2","","combinatorics","dp","math","","","2900","","Club of Young Aircraft Builders (hard version)",",
+                        ,","x456"
+"2066D1","Club of Young Aircraft Builders (easy version)","combinatorics","dp","math","","","2400","x1114","","",""
+"2066C","","bitmasks","combinatorics","dp","math","","2300","","Bitwise Slides",",
+                        ,
+                        ,","x2014"
+"2066B","White Magic","constructive algorithms","data structures","dp","greedy","implementation","1900","x4497","","",""
+"2066A","","graphs","greedy","implementation","interactive","","1400","","","","x6069"
+"2065H","Bro Thinks He's Him","combinatorics","data structures","divide and conquer","dp","math","2200","x1597","","",""
+"2065G","","combinatorics","math","number theory","","","1700","","Skibidus and Capping",",
+                        ,","x5046"
+"2065F","Skibidus and Slay","data structures","dfs and similar","graphs","greedy","trees","1700","x5788","","",""
+"2065E","","constructive algorithms","greedy","strings","","","1600","","Skibidus and Rizz",",
+                        ,","x10020"
+"2065D","Skibidus and Sigma","greedy","sortings","","","","1200","x17900","","",""
+"2065C2","","binary search","greedy","","","","1300","","","","x16016"
+"2065C1","Skibidus and Fanum Tax (easy version)","binary search","dp","greedy","","","1100","x24120","","",""
+"2065B","","strings","","","","","800","","Skibidus and Ohio","","x36261"
+"2065A","Skibidus and Amog'u","brute force","constructive algorithms","greedy","implementation","strings","800","x47519","","",""
+"2064F","","binary search","data structures","dp","two pointers","","2600","","We Be Summing",",
+                        ,
+                        ,","x569"
+"2064E","Mycraft Sand Sort","combinatorics","data structures","dsu","greedy","math","2400","x1145","","",""
+"2064D","","binary search","bitmasks","brute force","data structures","dp","1900","","","","x4914"
+"2064C","Remove the Ends","brute force","constructive algorithms","dp","greedy","","1300","x15339","","",""
+"2064B","","binary search","constructive algorithms","greedy","two pointers","","1100","","","","x18067"
+"2064A","Brogramming Contest","greedy","strings","","","","800","x25281","","",""
+"2063F2","","combinatorics","data structures","dfs and similar","dsu","graphs","2700","","Counting Is Not Fun (Hard Version)",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x738"
+"2063F1","Counting Is Not Fun (Easy Version)","combinatorics","data structures","dfs and similar","dp","dsu","2400","x1277","","",""
+"2063E","","data structures","dfs and similar","dp","greedy","trees","2300","","Triangle Tree",",
+                        ,
+                        ,
+                        ,","x2012"
+"2063D","Game With Triangles","binary search","brute force","data structures","geometry","greedy","2000","x4349","","",""
+"2063C","","brute force","data structures","dfs and similar","dp","graphs","1600","","","","x12418"
+"2063B","Subsequence Update","constructive algorithms","data structures","greedy","sortings","","1100","x21219","","",""
+"2063A","","math","number theory","","","","800","","","","x29327"
+"2062H","Galaxy Generator","bitmasks","combinatorics","dp","","","3500","x113","","",""
+"2062G","","flows","geometry","graph matchings","graphs","","3500","","Permutation Factory",",
+                        ,
+                        ,","x126"
+"2062F","Traveling Salescat","constructive algorithms","dp","geometry","graphs","greedy","2900","x507","","",""
+"2062E2","","data structures","dfs and similar","games","graphs","implementation","3000","","The Game (Hard Version)",",
+                        ,
+                        ,
+                        ,
+                        ,","x365"
+"2062E1","The Game (Easy Version)","data structures","dfs and similar","games","graphs","greedy","2000","x3827","","",""
+"2062D","","dfs and similar","dp","graphs","greedy","trees","2200","","Balanced Tree",",
+                        ,
+                        ,
+                        ,","x3125"
+"2062C","Cirno and Operations","brute force","math","","","","1200","x16686","","",""
+"2062B","","greedy","math","","","","900","","Clockwork",",","x21441"
+"2062A","String","constructive algorithms","greedy","math","strings","","800","x26307","","",""
+"2061I","","divide and conquer","dp","","","","3500","","Kevin and Nivek",",","x63"
+"2061H2","Kevin and Stones (Hard Version)","flows","graphs","","","","3500","x35","","",""
+"2061H1","","flows","graph matchings","graphs","","","3500","","Kevin and Stones (Easy Version)",",
+                        ,","x62"
+"2061G","Kevin and Teams","constructive algorithms","graphs","interactive","","","2900","x417","","",""
+"2061F2","","data structures","dp","","","","3500","","Kevin and Binary String (Hard Version)",",","x113"
+"2061F1","Kevin and Binary String (Easy Version)","greedy","implementation","","","","2100","x1976","","",""
+"2061E","","bitmasks","brute force","dp","greedy","math","2000","","Kevin and And",",
+                        ,
+                        ,
+                        ,
+                        ,","x3390"
+"2061D","Kevin and Numbers","bitmasks","data structures","","","","1600","x9263","","",""
+"2061C","","2-sat","combinatorics","dp","","","1600","","Kevin and Puzzle",",
+                        ,","x8493"
+"2061B","Kevin and Geometry","binary search","geometry","","","","1100","x13402","","",""
+"2061A","","math","","","","","800","","Kevin and Arithmetic","","x20737"
+"2060G","Bugged Sort","dp","greedy","sortings","","","2400","x1061","","",""
+"2060F","","combinatorics","dp","number theory","","","2200","","Multiplicative Arrays",",
+                        ,","x2207"
+"2060E","Graph Composition","dfs and similar","dsu","graphs","greedy","","1500","x10135","","",""
+"2060D","","greedy","","","","","1100","","","","x23834"
+"2060C","Game of Mathletes","games","greedy","sortings","two pointers","","900","x28282","","",""
+"2060B","","greedy","sortings","","","","1000","","","","x25755"
+"2060A","Fibonacciness","brute force","","","","","800","x37456","","",""
+"2059E2","","brute force","constructive algorithms","data structures","hashing","strings","2900","","Stop Gaming (Hard Version)",",
+                        ,
+                        ,
+                        ,","x309"
+"2059E1","Stop Gaming (Easy Version)","brute force","constructive algorithms","greedy","hashing","strings","2500","x788","","",""
+"2059D","","data structures","graphs","greedy","shortest paths","","1900","","Graph and Graph",",
+                        ,
+                        ,","x5659"
+"2059C","Customer Service","brute force","constructive algorithms","graph matchings","greedy","math","1600","x11072","","",""
+"2059B","","brute force","constructive algorithms","greedy","math","","1300","","","","x16945"
+"2059A","Milya and Two Arrays","constructive algorithms","greedy","sortings","","","800","x27398","","",""
+"2057H","","data structures","greedy","math","","","3500","","Coffee Break",",
+                        ,","x159"
+"2057G","Secret Message","constructive algorithms","dfs and similar","math","","","3000","x582","","",""
+"2057F","","binary search","data structures","dp","sortings","two pointers","3300","","Formation",",
+                        ,
+                        ,
+                        ,","x221"
+"2057E2","Another Exercise on Graphs (hard version)","binary search","dfs and similar","dp","dsu","graphs","2500","x1659","","",""
+"2057E1","","binary search","brute force","dp","dsu","graphs","2300","","Another Exercise on Graphs (Easy Version)",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x2292"
+"2057D","Gifts Order","data structures","greedy","implementation","math","matrices","2000","x4744","","",""
+"2057C","","bitmasks","constructive algorithms","greedy","math","","1500","","Trip to the Olympiad",",
+                        ,
+                        ,","x12342"
+"2057B","Gorilla and the Exam","greedy","sortings","","","","1000","x21131","","",""
+"2057A","","constructive algorithms","math","","","","800","","","","x26142"
+"2056F2","Xor of Median (Hard Version)","bitmasks","brute force","combinatorics","dp","math","3000","x215","","",""
+"2056F1","","bitmasks","brute force","combinatorics","dp","math","2700","","Xor of Median (Easy Version)",",
+                        ,
+                        ,
+                        ,","x329"
+"2056E","Nested Segments","combinatorics","dfs and similar","dp","dsu","math","2500","x882","","",""
+"2056D","","binary search","brute force","combinatorics","data structures","divide and conquer","2200","","Unique Median",",
+                        ,
+                        ,
+                        ,
+                        ,","x3164"
+"2056C","Palindromic Subsequences","brute force","constructive algorithms","math","","","1200","x17499","","",""
+"2056B","","brute force","dfs and similar","graphs","implementation","sortings","1300","","","","x16315"
+"2056A","Shape Perimeter","constructive algorithms","math","","","","800","x25484","","",""
+"2055F","","brute force","geometry","hashing","math","strings","3200","","Cosmic Divide",",
+                        ,
+                        ,
+                        ,","x77"
+"2055E","Haystacks","brute force","constructive algorithms","data structures","greedy","sortings","2800","x400","","",""
+"2055D","","greedy","implementation","math","","","2000","","Scarecrow",",
+                        ,","x3942"
+"2055C","The Trail","brute force","constructive algorithms","greedy","math","two pointers","1400","x15678","","",""
+"2055B","","constructive algorithms","greedy","sortings","","","1000","","","",""
+"2055A","Two Frogs","constructive algorithms","games","greedy","math","","800","x31422","","",""
+"2053I2","","data structures","dp","graphs","greedy","math","3500","","Affectionate Arrays (Hard Version)",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x52"
+"2053I1","Affectionate Arrays (Easy Version)","data structures","dp","greedy","","","2800","x460","","",""
+"2053H","","constructive algorithms","implementation","","","","3500","","Delicate Anti-monotonous Operations",",","x55"
+"2053G","Naive String Splits","binary search","brute force","greedy","hashing","math","3400","x202","","",""
+"2053F","","brute force","data structures","dp","greedy","implementation","2600","","Earnest Matrix Complement",",
+                        ,
+                        ,
+                        ,
+                        ,","x864"
+"2053E","Resourceful Caterpillar Sequence","dfs and similar","dp","games","graphs","greedy","1900","x3998","","",""
+"2053D","","binary search","data structures","greedy","math","schedules","1700","","Refined Product Optimality",",
+                        ,
+                        ,
+                        ,
+                        ,","x7001"
+"2053C","Bewitching Stargazer","bitmasks","divide and conquer","dp","math","","1500","x11058","","",""
+"2053B","","binary search","brute force","data structures","greedy","","1200","","Outstanding Impressionist",",
+                        ,
+                        ,","x15584"
+"2053A","Tender Carpenter","dp","geometry","greedy","math","","800","x20294","","",""
+"2052M","","dp","graphs","math","trees","","2700","","Managing Cluster",",
+                        ,
+                        ,","x320"
+"2052L","Legacy Screensaver","","","","","","2900","x114","","",""
+"2052K","","","","","","","2800","","Knowns and Unknowns","","x84"
+"2052J","Judicious Watching","binary search","greedy","sortings","","","2000","x1204","","",""
+"2052I","","graphs","shortest paths","","","","2800","","Incompetent Delivery Guy",",","x110"
+"2052H","Hunting Hoglins in Hogwarts","interactive","","","","","3500","x47","","",""
+"2052G","","data structures","geometry","implementation","","","2800","","Geometric Balance",",
+                        ,","x166"
+"2052F","Fix Flooded Floor","constructive algorithms","dp","graphs","","","1700","x2833","","",""
+"2052E","","brute force","expression parsing","strings","","","1900","","Expression Correction",",
+                        ,","x1220"
+"2052D","DAG Serialization","brute force","graphs","","","","2100","x923","","",""
+"2052C","","constructive algorithms","math","","","","3500","","Cactus without Bridges",",","x32"
+"2052B","BitBitJump","","","","","","2400","x364","","",""
+"2052A","","constructive algorithms","","","","","1600","","Adrenaline Rush","","x3281"
+"2051G","Snakes","bitmasks","dp","dsu","graphs","","2100","x2007","","",""
+"2051F","","brute force","greedy","implementation","math","","2000","","Joker",",
+                        ,
+                        ,","x3488"
+"2051E","Best Price","binary search","brute force","data structures","greedy","sortings","1600","x10259","","",""
+"2051D","","binary search","sortings","two pointers","","","1200","","","","x20685"
+"2051C","Preparing for the Exam","constructive algorithms","implementation","","","","1000","x24929","","",""
+"2051B","","binary search","math","","","","800","","","","x34760"
+"2051A","Preparing for the Olympiad","greedy","","","","","800","x32477","","",""
+"2050G","","dfs and similar","dp","trees","","","1900","","Tree Destruction",",
+                        ,","x4559"
+"2050F","Maximum modulo equality","data structures","divide and conquer","math","number theory","","1700","x8152","","",""
+"2050E","","dp","implementation","strings","","","1500","","","","x12430"
+"2050D","Digital string maximization","brute force","greedy","math","strings","","1300","x17064","","",""
+"2050C","","brute force","dp","math","","","1200","","","","x22028"
+"2050B","Transfusion","brute force","greedy","math","","","1100","x24736","","",""
+"2050A","","implementation","","","","","800","","","","x34073"
+"2049F","MEX OR Mania","bitmasks","brute force","data structures","dsu","implementation","2700","x501","","",""
+"2049E","","binary search","bitmasks","brute force","constructive algorithms","implementation","2400","","Broken Queries",",
+                        ,
+                        ,
+                        ,
+                        ,","x1407"
+"2049D","Shift + Esc","brute force","dp","","","","1900","x5251","","",""
+"2049C","","brute force","constructive algorithms","greedy","implementation","","1500","","MEX Cycle",",
+                        ,
+                        ,","x12201"
+"2049B","pspspsps","brute force","constructive algorithms","graph matchings","implementation","","1300","x17251","","",""
+"2049A","","greedy","implementation","","","","800","","MEX Destruction",",","x22921"
+"2048I2","Kevin and Puzzle (Hard Version)","bitmasks","fft","math","","","3500","x33","","",""
+"2048I1","","constructive algorithms","","","","","3500","","Kevin and Puzzle (Easy Version)","","x74"
+"2048H","Kevin and Strange Operation","data structures","dp","","","","3100","x179","","",""
+"2048G","","brute force","combinatorics","dp","math","","2800","","Kevin and Matrices",",
+                        ,
+                        ,","x560"
+"2048F","Kevin and Math Class","brute force","data structures","divide and conquer","dp","implementation","2500","x1141","","",""
+"2048E","","constructive algorithms","graphs","greedy","","","2000","","Kevin and Bipartite Graph",",
+                        ,","x3003"
+"2048D","Kevin and Competition Memories","binary search","brute force","data structures","greedy","sortings","1600","x7384","","",""
+"2048C","","bitmasks","brute force","greedy","implementation","strings","1200","","Kevin and Binary Strings",",
+                        ,
+                        ,
+                        ,","x13817"
+"2048B","Kevin and Permutation","constructive algorithms","greedy","","","","900","x18985","","",""
+"2048A","","brute force","greedy","implementation","math","number theory","800","","","","x21535"
+"2047B","Replace Character","brute force","combinatorics","greedy","strings","","900","x17053","","",""
+"2047A","","implementation","math","","","","800","","Alyona and a Square Jigsaw Puzzle",",","x16777"
+"2046F2","Yandex Cuneiform (Hard Version)","constructive algorithms","data structures","greedy","implementation","","3500","x70","","",""
+"2046F1","","constructive algorithms","data structures","greedy","","","3300","","Yandex Cuneiform (Easy Version)",",
+                        ,","x85"
+"2046E2","Cheops and a Contest (Hard Version)","greedy","implementation","","","","3500","x58","","",""
+"2046E1","","constructive algorithms","greedy","","","","2900","","Cheops and a Contest (Easy Version)",",","x175"
+"2046D","For the Emperor!","flows","graphs","","","","3100","x492","","",""
+"2046C","","binary search","data structures","greedy","sortings","ternary search","2100","","Adventurers",",
+                        ,
+                        ,
+                        ,
+                        ,","x2064"
+"2046B","Move Back at a Cost","binary search","data structures","greedy","sortings","","1600","x9376","","",""
+"2046A","","greedy","sortings","","","","1200","","Swap Columns and Find a Path",",","x15186"
+"2045M","Mirror Maze","brute force","dfs and similar","graphs","implementation","","1800","x1706","","",""
+"2045L","","constructive algorithms","","","","","3000","","Buggy DFS","","x116"
+"2045K","GCDDCG","","","","","","2900","x84","","",""
+"2045J","","bitmasks","data structures","","","","2600","","Xorderable Array",",","x269"
+"2045I","Microwavable Subsequence","data structures","","","","","2100","x1004","","",""
+"2045H","","dp","sortings","string suffix structures","strings","","2200","","Missing Separators",",
+                        ,
+                        ,","x621"
+"2045G","X Aura","graphs","math","shortest paths","","","2200","x729","","",""
+"2045F","","games","math","","","","3000","","Grid Game 3-angle",",","x110"
+"2045E","Narrower Passageway","combinatorics","data structures","","","","2700","x219","","",""
+"2045D","","","","","","","3500","","Aquatic Dragon","","x36"
+"2045C","Saraga","greedy","strings","","","","1400","x5719","","",""
+"2045B","","math","number theory","","","","2000","","ICPC Square",",","x1285"
+"2045A","Scrambled Scrabble","brute force","greedy","","","","1700","x2005","","",""
+"2044H","","constructive algorithms","data structures","dp","implementation","math","2100","","Hard Demon Problem",",
+                        ,
+                        ,
+                        ,","x2105"
+"2044G2","Medium Demon Problem (hard version)","dfs and similar","dp","dsu","graphs","implementation","1900","x3050","","",""
+"2044G1","","dfs and similar","graph matchings","graphs","implementation","trees","1700","","","","x6046"
+"2044F","Easy Demon Problem","binary search","brute force","data structures","math","number theory","1900","x4865","","",""
+"2044E","","binary search","greedy","implementation","math","number theory","1300","","Insane Problem",",
+                        ,
+                        ,
+                        ,","x15806"
+"2044D","Harder Problem","constructive algorithms","greedy","math","","","1100","x21631","","",""
+"2044C","","greedy","math","","","","800","","Hard Problem",",","x40183"
+"2044B","Normal Problem","implementation","strings","","","","800","x44812","","",""
+"2044A","","brute force","math","","","","800","","Easy Problem",",","x50206"
+"2043G","Problem with Queries","brute force","data structures","implementation","","","3000","x260","","",""
+"2043F","","bitmasks","brute force","combinatorics","dp","games","2700","","Nim",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x795"
+"2043E","Matrix Transformation","bitmasks","brute force","data structures","dfs and similar","graphs","2300","x1650","","",""
+"2043D","","brute force","flows","math","number theory","","1800","","Problem about GCD",",
+                        ,
+                        ,","x6629"
+"2043C","Sums on Segments","binary search","brute force","data structures","dp","greedy","1600","x9790","","",""
+"2043B","","math","number theory","","","","1100","","Digits",",","x19777"
+"2043A","Coin Transformation","brute force","math","","","","800","x25391","","",""
+"2042F","","data structures","dp","implementation","matrices","","2600","","Two Subarrays",",
+                        ,
+                        ,","x762"
+"2042E","Vertex Pairs","binary search","brute force","data structures","dfs and similar","divide and conquer","2900","x447","","",""
+"2042D","","data structures","implementation","sortings","two pointers","","1900","","Recommendations",",
+                        ,
+                        ,","x4266"
+"2042C","Competitive Fishing","greedy","","","","","1800","x7723","","",""
+"2042B","","games","greedy","","","","900","","Game with Colored Marbles",",","x17763"
+"2042A","Greedy Monocarp","greedy","sortings","","","","800","x19657","","",""
+"2041N","","","","","","","3300","","","",""
+"2041M","Selection Sort","binary search","data structures","greedy","two pointers","","2000","x1054","","",""
+"2041L","","","","","","","2900","","Building Castle","","x53"
+"2041K","Trophic Balance Species","binary search","brute force","dfs and similar","graphs","","3100","x90","","",""
+"2041J","","data structures","divide and conquer","dp","dsu","greedy","2700","","Bottle Arrangement",",
+                        ,
+                        ,
+                        ,","x191"
+"2041I","Auto Complete","binary search","data structures","hashing","implementation","sortings","2300","x528","","",""
+"2041H","","combinatorics","dp","math","","","2300","","Sheet Music",",
+                        ,","x774"
+"2041G","Grid Game","","","","","","3100","x44","","",""
+"2041F","","brute force","dfs and similar","number theory","","","2400","","Segmentation Folds",",
+                        ,","x383"
+"2041E","Beautiful Array","constructive algorithms","math","","","","1200","x8130","","",""
+"2041D","","brute force","dfs and similar","graphs","shortest paths","","1700","","Drunken Maze",",
+                        ,
+                        ,","x2888"
+"2041C","Cube","bitmasks","dfs and similar","dp","","","2000","x1483","","",""
+"2041B","","binary search","brute force","math","","","1200","","Bowling Frame",",
+                        ,","x6006"
+"2041A","The Bento Box Adventure","implementation","sortings","","","","1300","x9575","","",""
+"2040F","","combinatorics","dp","math","number theory","","2700","","Number of Cubes",",
+                        ,
+                        ,","x392"
+"2040E","Control of Randomness","combinatorics","dfs and similar","dp","graphs","greedy","2100","x2266","","",""
+"2040D","","brute force","constructive algorithms","dfs and similar","greedy","number theory","1900","","Non Prime Tree",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x5095"
+"2040C","Ordered Permutations","bitmasks","combinatorics","constructive algorithms","greedy","math","1600","x9541","","",""
+"2040B","","constructive algorithms","greedy","math","","","1000","","Paint a Strip",",
+                        ,","x21889"
+"2040A","Game of Division","games","math","","","","800","x23199","","",""
+"2039H2","","constructive algorithms","constructive algorithms","constructive algorithms","implementation","sortings","3500","","Cool Swap Walk (Hard Version)",",
+                        ,
+                        ,
+                        ,","x66"
+"2039H1","Cool Swap Walk (Easy Version)","constructive algorithms","implementation","sortings","","","3500","x79","","",""
+"2039G","","math","number theory","","","","3500","","Shohag Loves Pebae",",","x61"
+"2039F2","Shohag Loves Counting (Hard Version)","dp","number theory","","","","3200","x230","","",""
+"2039F1","","combinatorics","dp","math","number theory","","2800","","Shohag Loves Counting (Easy Version)",",
+                        ,
+                        ,","x419"
+"2039E","Shohag Loves Inversions","combinatorics","dp","implementation","math","","2200","x2084","","",""
+"2039D","","constructive algorithms","greedy","math","number theory","","1700","","Shohag Loves GCD",",
+                        ,
+                        ,","x6068"
+"2039C2","Shohag Loves XOR (Hard Version)","bitmasks","brute force","math","number theory","","1800","x4470","","",""
+"2039C1","","bitmasks","brute force","math","number theory","","1200","","Shohag Loves XOR (Easy Version)",",
+                        ,
+                        ,","x12056"
+"2039B","Shohag Loves Strings","constructive algorithms","greedy","implementation","strings","","1000","x15385","","",""
+"2039A","","constructive algorithms","number theory","","","","800","","Shohag Loves Mod",",","x17073"
+"2038N","Fixing the Expression","implementation","","","","","800","x10330","","",""
+"2038M","","dp","implementation","","","","2800","","Royal Flush",",","x276"
+"2038L","Bridge Renovation","brute force","dp","greedy","math","two pointers","1400","x6767","","",""
+"2038K","","brute force","dp","greedy","math","number theory","2100","","Grid Walk",",
+                        ,
+                        ,
+                        ,","x1490"
+"2038J","Waiting for...","greedy","implementation","","","","800","x7926","","",""
+"2038I","","binary search","data structures","hashing","string suffix structures","strings","2500","","Polyathlon",",
+                        ,
+                        ,
+                        ,","x638"
+"2038H","Galactic Council","flows","","","","","3000","x141","","",""
+"2038G","","constructive algorithms","implementation","interactive","","","1900","","Guess One Character",",
+                        ,","x2466"
+"2038F","Alternative Platforms","combinatorics","data structures","fft","math","sortings","2500","x413","","",""
+"2038E","","data structures","greedy","math","","","2900","","Barrels",",
+                        ,","x130"
+"2038D","Divide OR Conquer","binary search","bitmasks","data structures","dp","implementation","2400","x708","","",""
+"2038C","","data structures","geometry","greedy","sortings","","1400","","DIY",",
+                        ,
+                        ,","x5784"
+"2038B","Make It Equal","binary search","brute force","greedy","math","","2100","x1592","","",""
+"2038A","","games","greedy","","","","1400","","Bonus Project",",","x4563"
+"2037G","Natlan Exploring","bitmasks","combinatorics","data structures","dp","math","2000","x3127","","",""
+"2037F","","binary search","data structures","math","sortings","two pointers","2100","","Ardent Flames",",
+                        ,
+                        ,
+                        ,","x2557"
+"2037E","Kachina's Favorite Binary String","dp","greedy","interactive","two pointers","","1600","x6492","","",""
+"2037D","","data structures","greedy","two pointers","","","1300","","","","x13235"
+"2037C","Superultra's Favorite Permutation","constructive algorithms","greedy","math","number theory","","1000","x22993","","",""
+"2037B","","brute force","implementation","","","","800","","","","x24053"
+"2037A","Twice","implementation","","","","","800","x32596","","",""
+"2036G","","binary search","constructive algorithms","divide and conquer","interactive","math","2200","","Library of Magic",",
+                        ,
+                        ,
+                        ,
+                        ,","x1455"
+"2036F","XORificator 3000","bitmasks","dp","number theory","two pointers","","1900","x4426","","",""
+"2036E","","binary search","constructive algorithms","data structures","greedy","","1600","","","","x8488"
+"2036D","I Love 1543","brute force","implementation","matrices","","","1300","x14532","","",""
+"2036C","","brute force","implementation","","","","1100","","Anya and 1100",",","x20482"
+"2036B","Startup","greedy","sortings","","","","800","x27664","","",""
+"2036A","","implementation","","","","","800","","Quintomania","","x37607"
+"2035H","Peak Productivity Forces","constructive algorithms","","","","","3500","x76","","",""
+"2035G2","","divide and conquer","dp","","","","3500","","Go Learn! (Hard Version)",",","x92"
+"2035G1","Go Learn! (Easy Version)","dp","trees","","","","3300","x155","","",""
+"2035F","","binary search","brute force","dfs and similar","dp","trees","2500","","Tree Operations",",
+                        ,
+                        ,
+                        ,","x990"
+"2035E","Monster","binary search","brute force","constructive algorithms","greedy","implementation","2300","x1813","","",""
+"2035D","","binary search","data structures","divide and conquer","greedy","implementation","1800","","Yet Another Real Number Problem",",
+                        ,
+                        ,
+                        ,
+                        ,","x5311"
+"2035C","Alya and Permutation","bitmasks","constructive algorithms","math","","","1400","x10341","","",""
+"2035B","","constructive algorithms","greedy","math","number theory","","900","","Everyone Loves Tres",",
+                        ,
+                        ,","x18784"
+"2035A","Sliding","implementation","math","","","","800","x17141","","",""
+"2034H","","brute force","dfs and similar","dp","number theory","","3300","","Rayan vs. Rayaneh",",
+                        ,
+                        ,","x125"
+"2034G2","Simurgh's Watch (Hard Version)","greedy","implementation","","","","3500","x56","","",""
+"2034G1","","constructive algorithms","greedy","implementation","sortings","","3500","","Simurgh's Watch (Easy Version)",",
+                        ,
+                        ,","x55"
+"2034F2","Khayyam's Royal Decree (Hard Version)","combinatorics","dp","math","sortings","","2800","x474","","",""
+"2034F1","","combinatorics","dp","math","sortings","","2500","","Khayyam's Royal Decree (Easy Version)",",
+                        ,
+                        ,","x744"
+"2034E","Permutations Harmony","combinatorics","constructive algorithms","greedy","hashing","math","2200","x1774","","",""
+"2034D","","constructive algorithms","greedy","implementation","sortings","","1600","","Darius' Wisdom",",
+                        ,
+                        ,","x5752"
+"2034C","Trapped in the Witch's Labyrinth","constructive algorithms","dfs and similar","graphs","implementation","","1400","x7944","","",""
+"2034B","","data structures","greedy","implementation","two pointers","","1000","","Rakhsh's Revival",",
+                        ,
+                        ,","x14066"
+"2034A","King Keykhosrow's Mystery","brute force","chinese remainder theorem","math","number theory","","800","x17132","","",""
+"2033G","","data structures","dfs and similar","dp","greedy","trees","2200","","Sakurako and Chefir",",
+                        ,
+                        ,
+                        ,","x1618"
+"2033F","Kosuke's Sloth","brute force","math","number theory","","","1800","x6353","","",""
+"2033E","","brute force","data structures","dfs and similar","dsu","graphs","1400","","","","x12596"
+"2033D","Kousuke's Assignment","data structures","dp","dsu","greedy","math","1300","x16132","","",""
+"2033C","","dp","greedy","two pointers","","","1400","","","","x15861"
+"2033B","Sakurako and Water","brute force","constructive algorithms","greedy","","","900","x26717","","",""
+"2033A","","constructive algorithms","implementation","math","","","800","","Sakurako and Kosuke",",
+                        ,","x38249"
+"2032F","Peanuts","combinatorics","dp","games","math","","2700","x419","","",""
+"2032E","","constructive algorithms","data structures","greedy","implementation","math","2400","","Balanced",",
+                        ,
+                        ,
+                        ,","x1243"
+"2032D","Genokraken","constructive algorithms","data structures","graphs","greedy","implementation","1800","x5532","","",""
+"2032C","","binary search","math","sortings","two pointers","","1400","","Trinity",",
+                        ,
+                        ,","x14532"
+"2032B","Medians","constructive algorithms","greedy","implementation","math","","1100","x19273","","",""
+"2032A","","greedy","implementation","math","number theory","","800","","Circuit",",
+                        ,
+                        ,","x23496"
+"2031F","Penchick and Even Medians","binary search","constructive algorithms","interactive","probabilities","","2800","x393","","",""
+"2031E","","data structures","dfs and similar","dp","greedy","implementation","2100","","Penchick and Chloe's Trees",",
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,
+                        ,","x2386"
+"2031D","Penchick and Desert Rabbit","binary search","data structures","dfs and similar","dp","dsu","1700","x8214","","",""
+"2031C","","constructive algorithms","math","number theory","","","1300","","","","x14152"
+"2031B","Penchick and Satay Sticks","brute force","greedy","sortings","","","900","x18953","","",""
+"2031A","","constructive algorithms","dp","greedy","math","","800","","","","x19662"
+"2030G2","The Destruction of the Universe (Hard Version)","combinatorics","math","","","","3100","x151","","",""
+"2030G1","","combinatorics","greedy","math","","","2900","","The Destruction of the Universe (Easy Version)",",
+                        ,","x214"
+"2030F","Orangutan Approved Subarrays","binary search","data structures","dp","greedy","implementation","2400","x975","","",""
+"2030E","","combinatorics","data structures","dp","greedy","implementation","2200","","","",""
