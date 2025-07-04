@@ -41,7 +41,6 @@ if not tag_counts.empty:
     bar = (
         Bar(init_opts=opts.InitOpts(width="100%", height="600px",theme=theme,chart_id="top10algorithms"))
         .add_xaxis(list(tag_counts.index))
-        # 使用转换后的 y_axis_data
         .add_yaxis("出现次数", y_axis_data, color="#5470C6")
         .set_global_opts(
             title_opts=opts.TitleOpts(
@@ -51,7 +50,7 @@ if not tag_counts.empty:
             ),
             xaxis_opts=opts.AxisOpts(
                 name="标签",
-                axislabel_opts=opts.LabelOpts(rotate=30, font_size=12)  # 旋转标签防止重叠
+                axislabel_opts=opts.LabelOpts(rotate=30, font_size=12)
             ),
             yaxis_opts=opts.AxisOpts(name="出现次数"),
             tooltip_opts=opts.TooltipOpts(trigger="axis", axis_pointer_type="shadow"),
@@ -78,4 +77,4 @@ if not tag_counts.empty:
     print("Accepted")
 
 else:
-    print("错误：未能从数据中提取任何标签。请检查 'tags' 列的格式是否正确。")
+    print("Rejected")
